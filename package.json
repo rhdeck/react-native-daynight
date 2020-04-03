@@ -1,5 +1,5 @@
 {
-  "name": "react-native-daynight",
+  "name": "react-native-daynight-android",
   "version": "1.0.0",
   "description": "Add daynight theme to react-native android projects",
   "main": "index.js",
